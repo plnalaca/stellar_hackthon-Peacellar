@@ -1,6 +1,6 @@
-# StellarAid Smart Contracts
+# Peacellar Smart Contracts
 
-This directory contains the Soroban smart contracts for the StellarAid platform.
+This directory contains the Soroban smart contracts for the Peacellar platform.
 
 ## Contracts
 

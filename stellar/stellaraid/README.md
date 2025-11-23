@@ -126,8 +126,8 @@ Peacellar envisions a world where charitable giving is completely transparent an
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/plnalaca/peacellar.git
-cd peacellar/stellaraid/frontend
+git clone https://github.com/plnalaca/stellar_hackthon-Peacellar.git
+cd stellar_hackthon-Peacellar/frontend
 ```
 
 2. **Install dependencies**
@@ -287,7 +287,7 @@ First-time users will see a 4-step interactive tutorial explaining:
 ## 🔗 Important Links
 
 - **Live Demo**: `http://localhost:5173` (Development)
-- **GitHub**: [github.com/plnalaca/peacellar](https://github.com/plnalaca/peacellar)
+- **GitHub**: [github.com/plnalaca/stellar_hackthon-Peacellar](https://github.com/plnalaca/stellar_hackthon-Peacellar)
 - **Stellar Expert**: [Contract on Testnet](https://stellar.expert/explorer/testnet)
 - **Freighter Wallet**: [freighter.app](https://www.freighter.app/)
 - **Stellar Network**: [stellar.org](https://stellar.org)
