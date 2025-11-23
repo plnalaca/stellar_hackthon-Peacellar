@@ -319,18 +319,23 @@ npm test
 ### Homepage
 ![Peacellar Homepage](docs/screenshots/homepage.png)
 *Clean, modern landing page with call-to-action*
+<img width="1700" height="1061" alt="Ekran Resmi 2025-11-23 16 32 29" src="https://github.com/user-attachments/assets/5050907a-a5d3-4f0b-b086-cdc2de10604a" />
 
 ### Campaign Browser
 ![Campaign Browser](docs/screenshots/campaigns.png)
 *Browse and filter active campaigns*
+<img width="1705" height="1069" alt="Ekran Resmi 2025-11-23 16 32 42" src="https://github.com/user-attachments/assets/7f4c4255-602a-4208-8e71-fed9c66b4582" />
 
 ### Dashboard
 ![User Dashboard](docs/screenshots/dashboard.png)
 *Track donations, manage campaigns, view analytics*
+<img width="1705" height="1066" alt="Ekran Resmi 2025-11-23 16 33 06" src="https://github.com/user-attachments/assets/9ca9675d-add0-4acb-8461-89d827afbbd9" />
 
 ### Interactive Tutorial
 ![Onboarding Tutorial](docs/screenshots/tutorial.png)
 *4-step interactive guide for new users*
+![Uploading Ekran Resmi 2025-11-23 16.39.16.png…]()
+
 
 ## 👤 Hakkımda (About Me)
 
