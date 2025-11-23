@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+target/
+dist/
+.DS_Store
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build outputs
+*.wasm
+*.so
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Stellar
+.soroban/
+.stellar/
+
+# Testing
+coverage/
+
+# Production
+build/
